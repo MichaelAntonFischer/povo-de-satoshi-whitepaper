@@ -61,7 +61,7 @@ The Tokenizer will develop and market tokens necessary for the establishment and
 
 ### 5. Team and Implementation
 
-The project will be carried out by a dedicated team committed to the principles of decentralization and transparency. Funds raised from token sales will be used for land acquisition, infrastructure development, and other necessary expenses.
+The project will be carried out by a dedicated team committed to the principles of decentralization and transparency. Funds raised from token sales will be used for marketing, infrastructure development, and other necessary expenses.
 
 ### 6. Final Considerations
 
@@ -69,14 +69,9 @@ We invite all who share our vision to join us in building the first decentralize
 
 ---
 
-## Terra de Satoshi:
+# Terra de Satoshi:
 
-An Experimental Free Market of State Services
-
-Palavra de Satoshi  
-contato@palavradesatoshi.com.br
-
-www.terradesatoshi.com
+## An Experimental Free Market of State Services
 
 **Abstract:** Following the successful establishment of "Povo de Satoshi" as a decentralized nation, "Terra de Satoshi" will be launched as an example project. This document outlines the vision and structure of Terra de Satoshi, which will serve as a model for other experimental projects and create a free market of state services.
 
@@ -110,4 +105,3 @@ Terra de Satoshi represents the next step in realizing the vision of a decentral
 
 ---
 
-This version of the whitepaper clearly separates the establishment of "Povo de Satoshi" from the subsequent launch of "Terra de Satoshi" and includes references to the impact of technological advancements on traditional power dynamics.
