@@ -1,6 +1,5 @@
-# Povo de Satoshi Whitepaper
 
-## Povo de Satoshi:
+# Povo de Satoshi
 
 ### The First Decentralized Nation
 
@@ -12,7 +11,7 @@ Throughout modern history, centralized social organization has proven inefficien
 
 ### 2. Povo de Satoshi
 
-**Povo de Satoshi** represents the formation of a decentralized nation—a union of individuals who share the principles and values of Bitcoin. This group will work towards gaining international recognition as a sovereign, free, and independent people. This decentralized community will operate on the basis of libertarianism, promoting individual freedoms, respect for private property, and human development.
+**Povo de Satoshi** embodies the creation of a decentralized nation—a collective of individuals united by the principles and values of Bitcoin. This community aspires to gain international recognition as a sovereign, free, and independent people. Operating on a foundation of minimal consensus, Povo de Satoshi promotes the right to use Bitcoin or any other chosen currency and the freedom to change nationality, underlining the belief that all individuals own themselves and are free to select their state service providers. The only shared commitment is to advocate for, and if necessary, defend these rights for our members, even against other members if unavoidable.
 
 #### 2.1. Historical Context and Technological Advancements
 
@@ -30,7 +29,13 @@ The invention of ballistic missiles and nuclear weapons has broken a trend as ol
 
 #### 2.3. Governance and Principles
 
-Povo de Satoshi will be governed by its members through a system of direct democracy, utilizing tokens to represent ownership and participation. This system rejects traditional representative democracy in favor of a model where each individual has a direct voice proportional to their investment in the community.
+Povo de Satoshi will be governed by its members through a system of direct democracy, utilizing tokens to represent ownership and participation. This system rejects traditional representative democracy in favor of a model where each individual has a direct voice proportional to their investment in the community. The tokens serve as a testament to members’ commitment, with the funds supporting Povo de Satoshi’s initiatives. However, the primary purpose of the tokens is to demonstrate genuine commitment, proven through hard money, ensuring authenticity and dedication. Additionally, the token system grants members the flexibility to either cast their votes directly or delegate their voting power to a representative of their own choosing.
+
+These tokens should not be confused with NFTs or cryptocurrencies. While they use the same secure and decentralized technology as Bitcoin, they represent a different layer of abstraction. Best seen as a layer 3 technology, these tokens digitalize personal commitment for individuals who do not personally know each other, providing a tangible link to the real world.
+
+The price of 210,000 satoshis per token was carefully chosen to align with the total supply of Bitcoin. In a scenario where the global population reaches an estimated ceiling of 10 billion people, and all join Povo de Satoshi, this price point matches the 21 million Bitcoin that will ever exist. This design ensures that Povo de Satoshi can accommodate all adults as members while also making the purchasing power of the token price continue to rise with Bitcoin’s adoption.
+
+This structure ensures that the commitment required to join remains proportional to the risk involved. As the entity grows and joining becomes safer, the commitment represented by the token remains significant. Furthermore, it ensures that Povo de Satoshi never becomes a monopoly, fostering competition and the continuous improvement of state services over time.
 
 #### 2.4. Minimum Consensus
 
