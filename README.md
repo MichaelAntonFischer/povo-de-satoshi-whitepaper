@@ -29,13 +29,13 @@ The invention of ballistic missiles and nuclear weapons has broken a trend as ol
 
 #### 2.3. Governance and Principles
 
-Povo de Satoshi will be governed by its members through a system of direct democracy, utilizing tokens to represent ownership and participation. This system improves traditional representative democracy in favor of a model where each individual has a direct voice proportional to their investment in the community. The tokens serve as a testament to members’ commitment, with the funds supporting Povo de Satoshi’s initiatives. However, the primary purpose of the tokens is to demonstrate genuine commitment, proven through hard money, ensuring authenticity and dedication. Additionally, the token system grants members the flexibility to either cast their votes directly or delegate their voting power to a representative of their own choosing.
+Povo de Satoshi will be governed by its members through a system of direct democracy, utilizing pledges to represent ownership and participation. This system improves traditional representative democracy in favor of a model where each individual has a direct voice proportional to their investment in the community. The pledges serve as a testament to members’ commitment, with the funds supporting Povo de Satoshi’s initiatives. However, the primary purpose of the pledges is to demonstrate genuine commitment, proven through hard money, ensuring authenticity and dedication. Additionally, the pledge system grants members the flexibility to either cast their votes directly or delegate their voting power to a representative of their own choosing.
 
-These tokens should not be confused with NFTs or cryptocurrencies. While they use the same secure and decentralized technology of Bitcoin, they represent a different layer of abstraction. Best seen as a layer 3 technology, these tokens digitalize personal commitment for individuals who do not personally know each other, providing a tangible link to the real world.
+These pledges should not be confused with NFTs or cryptocurrencies. While they use the same secure and decentralized technology of Bitcoin, they represent a different layer of abstraction. Best seen as a layer 3 technology, these pledges digitalize personal commitment for individuals who do not personally know each other, providing a tangible link to the real world.
 
-The price of 210,000 satoshis per token was carefully chosen to align with the total supply of Bitcoin. In a scenario where the global population reaches an estimated ceiling of 10 billion people, and all join Povo de Satoshi, this price point matches the 21 million Bitcoin that will ever exist. This design ensures that Povo de Satoshi can accommodate all commited adults as members while also making the purchasing power of the token price continue to rise with Bitcoin’s adoption.
+The price of 210,000 satoshis per pledge was carefully chosen to align with the total supply of Bitcoin. In a scenario where the global population reaches an estimated ceiling of 10 billion people, and all join Povo de Satoshi, this price point matches the 21 million Bitcoin that will ever exist. This design ensures that Povo de Satoshi can accommodate all commited adults as members while also making the purchasing power of the pledge price continue to rise with Bitcoin’s adoption.
 
-This structure ensures that the commitment required to join remains proportional to the risk involved. As the entity grows and joining becomes safer, the commitment represented by the token remains significant. Furthermore, it ensures that Povo de Satoshi never becomes a monopoly, fostering competition and the continuous improvement of state services over time.
+This structure ensures that the commitment required to join remains proportional to the risk involved. As the entity grows and joining becomes safer, the commitment represented by the pledge remains significant. Furthermore, it ensures that Povo de Satoshi never becomes a monopoly, fostering competition and the continuous improvement of state services over time.
 
 #### 2.4. Minimum Consensus
 
@@ -55,13 +55,13 @@ These principles encapsulate the common consensus that no state can own humans; 
 6. **Non-Aggression Ethics:** Coexistence based on mutual respect and voluntary cooperation.
 7. **Private Laws and Justice:** Laws proposed and voted on by members, ensuring a society governed by collective values.
 
-### 4. Bitcoin Tokenizer
+### 4. Bitcoin pledgeizer
 
-The Tokenizer will develop and market tokens necessary for the establishment and functioning of Povo de Satoshi. These tokens will facilitate ownership, participation, and the funding of the project.
+The pledgeizer will develop and market pledges necessary for the establishment and functioning of Povo de Satoshi. These pledges will facilitate ownership, participation, and the funding of the project.
 
 ### 5. Team and Implementation
 
-The project will be carried out by a dedicated team committed to the principles of decentralization and transparency. Funds raised from token sales will be used for marketing, infrastructure development, and other necessary expenses.
+The project will be carried out by a dedicated team committed to the principles of decentralization and transparency. Funds raised from pledge sales will be used for marketing, infrastructure development, and other necessary expenses.
 
 ### 6. Final Considerations
 
@@ -77,7 +77,7 @@ We invite all who share our vision to join us in building the first decentralize
 
 ### 1. Introduction
 
-Terra de Satoshi aims to be a concrete realization of the philosophical theories underpinning Povo de Satoshi. It will demonstrate the principles of a sustainable and collaborative society, with decentralized governance based on tokens issued on the Bitcoin network.
+Terra de Satoshi aims to be a concrete realization of the philosophical theories underpinning Povo de Satoshi. It will demonstrate the principles of a sustainable and collaborative society, with decentralized governance based on pledges issued on the Bitcoin network.
 
 ### 2. Vision for Terra de Satoshi
 
@@ -85,7 +85,7 @@ Terra de Satoshi will embody the principles of economic freedom, private propert
 
 ### 3. Private and Decentralized Nation
 
-- **Private Ownership:** Members of Povo de Satoshi will own fractions of Terra de Satoshi through tokens, introducing financial democracy and ensuring that each individual has a stake in the nation's success.
+- **Private Ownership:** Members of Povo de Satoshi will own fractions of Terra de Satoshi through pledges, introducing financial democracy and ensuring that each individual has a stake in the nation's success.
 - **Decentralized Governance:** Terra de Satoshi will operate without a central government, with decisions made collectively by its members. The nation will be established on multiple continents, ensuring a truly decentralized presence.
 
 ### 4. Implementation and Development
@@ -95,9 +95,9 @@ The implementation of Terra de Satoshi will follow a phased approach:
 1. **Initial Community:** The first community will be established with 210,000 "Satoshi Citizens."
 2. **Global Expansion:** Acquire land on all continents to create multiple decentralized communities, forming a global network of Terra de Satoshi units.
 
-### 5. The Role of Bitcoin Tokenizer
+### 5. The Role of Bitcoin pledgeizer
 
-The Tokenizer will continue to develop and market tokens for Terra de Satoshi, ensuring a seamless connection between ownership, participation, and the funding of the project.
+The pledgeizer will continue to develop and market pledges for Terra de Satoshi, ensuring a seamless connection between ownership, participation, and the funding of the project.
 
 ### 6. Final Considerations
 
